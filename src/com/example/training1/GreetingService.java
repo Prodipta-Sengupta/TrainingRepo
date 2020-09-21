@@ -42,7 +42,7 @@ public class GreetingService {
 	@Path("hi")
 	@Produces("text/plain")
 	public String resourceMethodGET3() { 
-		return "Hi! Welcome to Jenkins CICD";
+		return "Hi! Welcome to Jenkins CICD course";
 	}
 	
 	/**
